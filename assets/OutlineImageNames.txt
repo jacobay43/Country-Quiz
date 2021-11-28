@@ -1,0 +1,210 @@
+
+ Directory of C:\Users\**\Documents\AndroidStudioProjects\CountryQuiz2\app\src\main\assets\CountryOutlineImages
+
+11/28/2021  05:53 PM    <DIR>          .
+11/28/2021  05:53 PM    <DIR>          ..
+08/26/2021  06:24 PM            66,450 afghanistan.jpg
+08/26/2021  07:24 PM            27,771 Albania.jpg
+08/26/2021  07:24 PM            29,870 algeria.jpg
+08/26/2021  07:25 PM            21,414 American Samoa.jpg
+08/26/2021  07:26 PM            27,135 Andorra.jpg
+08/26/2021  07:26 PM            31,896 Angola.jpg
+08/26/2021  07:27 PM            22,909 Anguilla.jpg
+08/26/2021  07:28 PM            21,640 Antigua and Barbuda.jpg
+08/26/2021  07:28 PM            34,275 Argentina.jpg
+08/26/2021  07:29 PM            43,080 Armenia.jpg
+08/26/2021  07:29 PM            22,984 Aruba.jpg
+08/26/2021  07:30 PM            23,604 Ashmore and Cartier Islands.jpg
+08/26/2021  07:30 PM            41,990 Australia.jpg
+08/26/2021  07:31 PM            31,672 Austria.jpg
+08/26/2021  07:31 PM            41,752 Azerbaijan.jpg
+08/26/2021  07:32 PM            30,397 Bahrain.jpg
+08/26/2021  07:33 PM            57,620 Bangladesh.jpg
+08/26/2021  07:34 PM            22,461 Barbados.jpg
+08/26/2021  07:34 PM            30,137 Belgium.jpg
+08/26/2021  07:35 PM            20,884 Benin.jpg
+08/26/2021  07:35 PM            44,733 Bermuda.jpg
+08/26/2021  07:36 PM            22,058 Bhutan.jpg
+08/26/2021  07:36 PM            26,831 Bolivia.jpg
+08/26/2021  07:37 PM            53,107 Bosnia and Herzegovina.jpg
+08/26/2021  07:39 PM            26,139 Botswana.jpg
+08/26/2021  07:41 PM            38,230 Brazil.jpg
+08/26/2021  07:42 PM            26,759 British Virgin Islands.jpg
+08/26/2021  07:42 PM            34,787 Brunei.jpg
+08/26/2021  07:43 PM            29,787 Bulgaria.jpg
+08/26/2021  07:43 PM            31,248 Burkina Faso.jpg
+08/26/2021  07:44 PM            32,319 Burma.jpg
+08/26/2021  07:44 PM            35,909 Burundi.jpg
+08/26/2021  07:45 PM            43,650 Cambodia.jpg
+08/26/2021  07:45 PM            27,580 Cameroon.jpg
+08/26/2021  08:20 PM           187,262 Canada.jpg
+08/26/2021  08:22 PM            21,525 Cape Verde.jpg
+08/26/2021  08:22 PM            12,485 Cayman Islands.jpg
+08/27/2021  06:48 PM            27,170 Central African Republic.jpg
+08/27/2021  06:49 PM            15,766 Chad.jpg
+08/27/2021  06:49 PM            22,376 Chile.jpg
+08/27/2021  06:49 PM            27,023 China.jpg
+08/27/2021  06:58 PM            19,684 Christmas Island.jpg
+08/27/2021  06:59 PM            32,516 Clipperton Island.jpg
+08/27/2021  07:00 PM            14,671 Cocos(Keeling) Islands.jpg
+08/27/2021  07:00 PM            30,745 Colombia.jpg
+08/27/2021  07:01 PM            15,119 Comoros.jpg
+08/27/2021  07:01 PM            10,270 Cook Islands.jpg
+08/27/2021  07:02 PM            34,712 Costa Rica.jpg
+08/27/2021  07:03 PM            56,943 Coted'Ivoire.jpg
+08/27/2021  07:03 PM            53,695 Croatia.jpg
+08/27/2021  07:04 PM            27,694 Cuba.jpg
+08/27/2021  07:07 PM            29,180 Czech Republic.jpg
+08/27/2021  07:08 PM            42,133 Democratic Republic of the Congo.jpg
+08/27/2021  07:10 PM            48,499 Denmark.jpg
+08/27/2021  07:12 PM            28,814 Djibouti.jpg
+08/28/2021  02:15 AM            22,703 Dominica.jpg
+08/28/2021  02:16 AM            29,583 Dominican Republic.jpg
+08/28/2021  02:18 AM            17,515 East Timor.jpg
+08/28/2021  02:19 AM            36,347 Ecuador.jpg
+08/28/2021  02:19 AM            33,839 Egypt.jpg
+08/28/2021  02:20 AM            18,493 El Salvador.jpg
+08/28/2021  02:20 AM            21,606 Equatorial Guinea.jpg
+08/28/2021  02:21 AM            31,973 Eritrea.jpg
+08/28/2021  02:22 AM            38,988 Estonia.jpg
+08/28/2021  02:22 AM            29,301 Ethiopia.jpg
+08/28/2021  02:23 AM            62,469 Falkand Islands.jpg
+08/28/2021  02:23 AM            39,987 Faroe Islands.jpg
+08/28/2021  02:24 AM            19,357 Fiji.jpg
+08/28/2021  02:24 AM            19,651 Finland.jpg
+08/28/2021  02:25 AM            35,934 France.jpg
+08/28/2021  02:25 AM            27,162 French Guiana.jpg
+08/28/2021  02:26 AM            20,249 French Polynesia.jpg
+08/28/2021  02:26 AM            39,694 Gabon.jpg
+08/28/2021  02:27 AM            24,638 Gambia.jpg
+08/28/2021  02:27 AM            28,869 Gaza Strip.jpg
+08/28/2021  02:28 AM            27,193 Georgia.jpg
+08/28/2021  02:28 AM            40,111 Germany.jpg
+08/28/2021  02:29 AM            43,983 Ghana.jpg
+08/28/2021  02:29 AM            30,478 Gibraltar.jpg
+08/28/2021  02:30 AM            65,982 Greece.jpg
+08/28/2021  02:30 AM            32,310 Greenland.jpg
+08/28/2021  02:31 AM            21,984 Grenada.jpg
+08/28/2021  02:32 AM            27,046 Guadeloupe.jpg
+08/28/2021  02:32 AM            46,697 Guam.jpg
+08/28/2021  02:33 AM            27,507 Guatemala.jpg
+08/28/2021  02:33 AM            19,920 Guernsey.jpg
+08/28/2021  02:34 AM            41,596 Guinea-Bissau.jpg
+08/28/2021  02:33 AM            33,372 Guinea.jpg
+08/28/2021  02:35 AM            17,798 Guyana.jpg
+08/28/2021  02:35 AM            34,299 Haiti.jpg
+08/28/2021  02:36 AM            25,537 Honduras.jpg
+08/28/2021  02:37 AM            72,684 Hong Kong.jpg
+08/28/2021  06:34 AM            30,159 Hungary.jpg
+08/28/2021  06:35 AM            40,895 Iceland.jpg
+08/28/2021  06:35 AM            43,890 India.jpg
+08/28/2021  06:36 AM            41,682 Indonesia.jpg
+08/28/2021  06:36 AM            33,810 Iran.jpg
+08/28/2021  06:37 AM            45,518 Iraq.jpg
+08/28/2021  06:37 AM            55,443 Ireland.jpg
+08/28/2021  06:38 AM            24,483 Israel.jpg
+08/28/2021  06:38 AM            42,527 Italy.jpg
+08/28/2021  06:39 AM            20,176 Jamaica.jpg
+08/28/2021  06:40 AM            38,104 Japan.jpg
+08/28/2021  06:42 AM            27,145 Jersey.jpg
+08/28/2021  06:47 AM            27,630 Jordan.jpg
+08/28/2021  06:48 AM            32,925 Kazakhstan.jpg
+08/28/2021  06:49 AM            32,093 Kenya.jpg
+08/28/2021  06:50 AM            21,505 Kiribati.jpg
+08/28/2021  02:26 PM            36,655 Laos.jpg
+08/28/2021  02:27 PM            35,616 Latvia.jpg
+08/28/2021  02:28 PM            34,645 Lebanon.jpg
+08/28/2021  02:28 PM            29,075 Lesotho.jpg
+08/28/2021  02:29 PM            31,984 Liberia.jpg
+08/28/2021  02:29 PM            31,530 Libya.jpg
+08/28/2021  02:30 PM            35,272 Liechtenstein.jpg
+08/28/2021  02:31 PM            37,556 Lithuania.jpg
+08/28/2021  02:31 PM            39,821 Luxembourg.jpg
+08/28/2021  02:32 PM            33,562 Macedonia.jpg
+08/28/2021  02:33 PM            36,084 Madagascar.jpg
+08/28/2021  02:34 PM            33,417 Malawi.jpg
+08/28/2021  02:34 PM            37,365 Malaysia.jpg
+08/28/2021  02:35 PM            87,371 Maldives.jpg
+08/28/2021  02:35 PM            32,118 Mali.jpg
+08/28/2021  02:36 PM            45,036 Malta.jpg
+08/28/2021  02:36 PM            46,110 Marshall islands.jpg
+08/28/2021  02:37 PM            28,884 Mauritania.jpg
+08/28/2021  02:40 PM            35,777 Mauritius island.jpg
+08/28/2021  02:41 PM            45,401 Mexico.jpg
+08/28/2021  02:43 PM           100,952 Micronesia.jpg
+08/28/2021  02:43 PM            37,038 Moldova.jpg
+08/28/2021  02:44 PM            43,599 Monaco.jpg
+08/28/2021  02:44 PM            33,676 Mongolia.jpg
+08/28/2021  02:49 PM            40,837 Montenegro.jpg
+08/28/2021  02:50 PM            32,642 Morocco.jpg
+08/28/2021  02:50 PM            42,635 Mozambique.jpg
+08/27/2021  07:05 PM            49,998 Myanmar.jpg
+08/27/2021  07:05 PM            29,609 Namibia.jpg
+08/27/2021  07:06 PM            20,665 Nauru.jpg
+08/28/2021  02:51 PM            34,666 Nepal.jpg
+08/28/2021  02:52 PM            60,804 Netherlands.jpg
+08/28/2021  02:53 PM            41,248 New zealand.jpg
+08/28/2021  02:54 PM            40,881 Nicaragua.jpg
+08/28/2021  02:55 PM            31,167 Niger.jpg
+08/28/2021  02:55 PM            33,969 Nigeria.jpg
+08/28/2021  02:56 PM            74,183 Norway.jpg
+08/28/2021  02:56 PM            33,973 Oman.jpg
+08/28/2021  03:13 PM            37,160 Pakistan.jpg
+08/28/2021  03:13 PM            64,198 Palau.jpg
+08/28/2021  03:13 PM            57,459 Panama.jpg
+08/28/2021  03:14 PM            90,728 Papua new guinea.jpg
+08/28/2021  03:15 PM            31,769 Paraguay.jpg
+08/28/2021  03:15 PM            42,999 Peru.jpg
+08/28/2021  03:16 PM            85,372 Philippines.jpg
+08/28/2021  03:16 PM            38,073 Poland.jpg
+08/28/2021  03:16 PM            48,381 Portugal.jpg
+08/28/2021  03:17 PM            41,238 Qatar.jpg
+08/28/2021  03:17 PM            37,775 Republic of the Congo.jpg
+08/28/2021  03:19 PM            37,124 Sierra Leone.jpg
+08/28/2021  03:19 PM            44,798 Singapore.jpg
+08/28/2021  03:20 PM            21,896 Slovakia.jpg
+08/28/2021  03:20 PM            21,224 Slovenia.jpg
+08/28/2021  03:20 PM            22,413 Solomon Islands.jpg
+08/28/2021  03:21 PM            30,295 Somalia.jpg
+08/28/2021  03:21 PM            33,501 South Africa.jpg
+08/28/2021  03:18 PM            15,179 South Georgia and South Sandwich Islands.jpg
+08/28/2021  03:22 PM            28,608 South sudan.jpg
+08/28/2021  03:22 PM            33,232 Spain.jpg
+08/28/2021  03:12 PM            33,734 Sri Lanka.jpg
+08/28/2021  03:11 PM            38,368 Sudan.jpg
+08/28/2021  03:11 PM            34,762 Suriname.jpg
+08/28/2021  03:10 PM            48,786 Svalbard.jpg
+08/28/2021  03:10 PM            26,072 Swaziland.jpg
+08/28/2021  03:09 PM            35,663 Sweden.jpg
+08/28/2021  03:09 PM            44,841 Switzerland.jpg
+08/28/2021  03:09 PM            46,620 Syria.jpg
+08/28/2021  03:08 PM            27,394 Taiwan.jpg
+08/28/2021  03:08 PM            19,084 Tajikistan.jpg
+08/28/2021  03:08 PM            54,715 Tanzania.jpg
+08/28/2021  03:07 PM            37,003 Thailand.jpg
+08/28/2021  03:07 PM            24,995 Togo.jpg
+08/28/2021  03:07 PM            12,205 Tokelau.jpg
+08/28/2021  03:06 PM            23,333 Tonga.jpg
+08/28/2021  03:06 PM            39,834 Trinidad and Tobago.jpg
+08/28/2021  03:05 PM            27,685 Tunisia.jpg
+08/28/2021  03:04 PM            34,401 Turkey.jpg
+08/28/2021  03:04 PM            35,689 Turkmenistan.jpg
+08/28/2021  03:03 PM            41,292 Turks and Caicos Islands.jpg
+08/28/2021  03:02 PM            22,514 Tuvalu.jpg
+08/28/2021  03:02 PM            62,606 Uganda.jpg
+08/28/2021  03:02 PM            45,677 Ukraine.jpg
+08/28/2021  03:01 PM            19,135 United Arab Emirates.jpg
+08/28/2021  03:01 PM            46,458 United Kingdom.jpg
+08/26/2021  08:24 PM            37,594 United States.jpg
+08/28/2021  03:01 PM            43,156 Uruguay.jpg
+08/28/2021  03:00 PM            31,511 Uzbekistan.jpg
+08/28/2021  03:00 PM            21,059 Vanuatu.jpg
+08/28/2021  03:00 PM            46,635 Venezuela.jpg
+08/28/2021  02:59 PM            41,774 Vietnam.jpg
+08/28/2021  02:59 PM            27,289 Virgin Islands.jpg
+08/28/2021  02:58 PM            11,326 Wallis and Futuna Islands.jpg
+08/28/2021  02:57 PM            28,848 West Bank.jpg
+08/26/2021  08:40 PM            22,911 Western Sahara.jpg
+08/26/2021  08:40 PM            24,452 Yemen.jpg
+08/28/2021  02:57 PM            39,612 Zambia.jpg
+08/26/2021  08:31 PM            37,840 Zimbabwe.jpg
