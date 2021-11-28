@@ -118,7 +118,7 @@ public class MainActivityFragment extends Fragment {
         AdRequest adRequest = new AdRequest.Builder().build();
         //mAdView.loadAd(adRequest);
 
-        InterstitialAd.load(getContext(),"ca-app-pub-6555466469121752/7119814295",adRequest,
+        InterstitialAd.load(getContext(),"YOUR_AD_UNIT_ID",adRequest,
                 new InterstitialAdLoadCallback(){
             @Override
                     public void onAdLoaded(@NonNull InterstitialAd interstitialAd)
@@ -169,7 +169,7 @@ public class MainActivityFragment extends Fragment {
     public void resetQuiz()
     {
         AdRequest adRequest = new AdRequest.Builder().build();
-        InterstitialAd.load(getContext(),"ca-app-pub-6555466469121752/7119814295",adRequest,
+        InterstitialAd.load(getContext(),"YOUR_AD_UNIT_ID",adRequest,
                 new InterstitialAdLoadCallback(){
                     @Override
                     public void onAdLoaded(@NonNull InterstitialAd interstitialAd)
